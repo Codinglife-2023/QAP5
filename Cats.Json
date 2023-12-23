@@ -1,0 +1,13 @@
+[
+    {" Cat id": 100, "name": "Whiskers", "age": 3,"color": "White"},
+    {" Cat id": 101, "name": "Boots", "age": 4,"color": "Black"},
+    {" Cat id": 102, "name": "Fluffy", "age": 5,"color": "Brown"},
+    {" Cat id": 103, "name": "Bella", "age": 2,"color": "White"},
+    {" Cat id": 104, "name": "Oscar", "age": 3,"color": "Black"},
+    {" Cat id": 105, "name": "Mittens", "age": 2,"color": "Brown"},
+    {" Cat id": 402, "name": "Snowball", "age": 4,"color": "White"},
+    {" Cat id": 578, "name": "Shadow", "age": 6,"color": "Black"},
+    {" Cat id": 609, "name": "Tiger", "age": 4,"color": "Brown"},
+    {" Cat id": 105, "name": "shy", "age": 2,"color": "Brown"}
+    
+]
